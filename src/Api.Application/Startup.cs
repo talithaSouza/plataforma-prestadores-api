@@ -91,9 +91,8 @@ namespace application
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "Curso de API com NetCore 3.1/5.0",
+                    Title = "API com Net .8",
                     Version = "v1",
-                    Description = "Arquiterura DDD",
                     TermsOfService = new Uri("http://www.mfrinfo.com.br"),
                 });
 
